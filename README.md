@@ -7,3 +7,5 @@ Thanks for looking, but this is just an exercise.
 3.  And last
 
 And now I'm adding more text to edit, and I'm going to make a branch
+
+Testing out the collaborative features of GitHub at the METRO workshop
