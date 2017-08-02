@@ -9,3 +9,5 @@ Thanks for looking, but this is just an exercise.
 And now I'm adding more text to edit, and I'm going to make a branch
 
 Testing out the collaborative features of GitHub at the METRO workshop
+
+Now I am adding more text to test Github desktop
